@@ -6,9 +6,6 @@ Certainly! Here's a sample GitHub description for a project on self-driving cars
 ---
 
 # Self-Driving Cars Project
-
-![Self-Driving Car](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fvectors%2Fself-driving-car&psig=AOvVaw03dZ2cMQChOXtSmdbaj3LT&ust=1702478630384000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNi016KRioMDFQAAAAAdAAAAABAI)
-
 Welcome to our Self-Driving Cars project, where we explore the fascinating intersection of JavaScript, Neural Networking, and Machine Learning to create autonomous vehicles. 🚗🤖
 
 ## Overview
@@ -35,19 +32,3 @@ In this repository, we've implemented cutting-edge technologies to develop a sel
 
 Follow our comprehensive guide in the [Wiki](https://en.wikipedia.org/wiki/Self-driving_car) to set up the project locally and witness the magic of self-driving cars powered by JavaScript and Machine Learning.
 
-## Showcase
-
-![Screenshot 1](D:\Projects\workspace\Self Driving Cars\Screenshot 2023-12-12 201601.png)
-*Unleash the power of code in motion: Self-driving cars redefined with JavaScript, Neural Networking, and Machine Learning. 🚗🤖 #TechInMotio*
-
-![Screenshot 2](D:\Projects\workspace\Self Driving Cars\Screenshot 2023-12-12 201636.png)
-*Navigate tomorrow's roads today: Join us on a journey of innovation with Self-Driving Cars driven by JavaScript magic and neural brilliance. 🌐🚀 #FutureTech*
-
-## Contributions
-
-We welcome contributions from the community! Whether it's bug fixes, enhancements, or new features, feel free to submit a pull request.
-
-Let's drive into the future together! 🚀
-
----
- (`https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fvectors%2Fself-driving-car&psig=AOvVaw03dZ2cMQChOXtSmdbaj3LT&ust=1702478630384000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNi016KRioMDFQAAAAAdAAAAABAI`, `https://en.wikipedia.org/wiki/Self-driving_car`, `D:\Projects\workspace\Self Driving Cars\Screenshot 2023-12-12 201601.png`, `D:\Projects\workspace\Self Driving Cars\Screenshot 2023-12-12 201636.png`) 
